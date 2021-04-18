@@ -1,3 +1,3 @@
-from BuildingAPIRepository import BuildingAPIRepository
+from BuildingScrapingRepository import BuildingScrapingRepository
 
-BuildingAPIRepository().find_buildings()
+BuildingScrapingRepository().find_buildings()
