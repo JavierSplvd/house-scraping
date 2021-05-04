@@ -1,3 +1,0 @@
-from BuildingScrapingRepository import BuildingScrapingRepository
-
-BuildingScrapingRepository().find_buildings()
